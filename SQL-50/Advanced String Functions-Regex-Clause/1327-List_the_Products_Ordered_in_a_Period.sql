@@ -1,0 +1,1 @@
+WITH TMP AS (SELECT product_id, SUM(unit) units, YEAR(order_date) year, MONTH((order_date)) month FROM Orders GROUP BY year, month, product_id)
