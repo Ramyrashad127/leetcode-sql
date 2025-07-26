@@ -14,10 +14,10 @@ The 50 problems are divided into the following 7 categories. ✅ indicates secti
 | ✅ `Select`                                | Completed  | Learn basic selection, filters, and projections       |
 | ✅ `Basic Joins`                           | Completed  | Practice joining tables using `INNER`, `LEFT`, etc.   |
 | ✅ `Basic Aggregate Functions`             | Completed  | Use `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` effectively   |
-| ⏳ `Sorting and Grouping`                  | In Progress| Work with `GROUP BY`, `ORDER BY`, and `HAVING`        |
-| ⏳ `Advanced Select and Joins`             | Pending    | Advanced multi-joins and filtering logic              |
-| ⏳ `Subqueries`                            | Pending    | Use subqueries in `SELECT`, `WHERE`, and `FROM`       |
-| ⏳ `Advanced String Functions / Regex / Clause` | Pending | Apply `LIKE`, `REGEXP`, string functions, etc.        |
+| ✅ `Sorting and Grouping`                  | Completed| Work with `GROUP BY`, `ORDER BY`, and `HAVING`        |
+| ✅ `Advanced Select and Joins`             | Completed   | Advanced multi-joins and filtering logic              |
+| ✅ `Subqueries`                            | Completed    | Use subqueries in `SELECT`, `WHERE`, and `FROM`       |
+| ✅ `Advanced String Functions / Regex / Clause` | Completed | Apply `LIKE`, `REGEXP`, string functions, etc.        |
 
 ---
 
@@ -38,4 +38,4 @@ The 50 problems are divided into the following 7 categories. ✅ indicates secti
 ## ✍️ Author
 
 Maintained with 💻 and ☕ by [Ramy Rashad](https://github.com/Ramyrashad127)  
-📈 Progress: `3 / 7 sections completed`
+📈 Progress: `7 / 7 sections completed`
