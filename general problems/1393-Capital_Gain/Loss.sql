@@ -1,0 +1,2 @@
+SELECT stock_name , SUM(CASE WHEN operation = 'Buy' THEN -1 * price ELSE price END) capital_gain_loss FROM Stocks
+GROUP BY stock_name;
